@@ -20,7 +20,7 @@ console.log( string);
 
 
 
-// Problem -1
+// Problem -2
 
 function fino(){
 
